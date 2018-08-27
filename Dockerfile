@@ -20,7 +20,8 @@ RUN \
 	openjdk-8-jre-headless \
 	ttf-dejavu && \
  echo "**** fix XXXsonic status page ****" && \
- find / -name "accessibility.properties" -exec rm -f '{}' + && \
+ find /etc -name "accessibility.properties" -exec rm -fv '{}' + && \
+ find /usr -name "accessibility.properties" -exec rm -fv '{}' + && \
  echo "**** cleanup ****" && \
  rm -rf \
 	/tmp/* \
