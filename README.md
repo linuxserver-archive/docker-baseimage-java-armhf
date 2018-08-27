@@ -20,7 +20,7 @@
 &nbsp;
 
 
-[![](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/Dockerfile-Link-green.png)](https://github.com/linuxserver/docker-baseimage-java.armhf/blob/master/Dockerfile)
+[![](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/Dockerfile-Link-green.png)](https://github.com/linuxserver/docker-baseimage-java-armhf/blob/master/Dockerfile)
 
 [![](https://images.microbadger.com/badges/image/lsiobase/java.armhf.svg)](https://microbadger.com/images/lsiobase/java.armhf "Get your own image badge on microbadger.com")
 
